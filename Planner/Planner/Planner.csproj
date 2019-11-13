@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="fusillade" Version="2.0.5" />
-    <PackageReference Include="modernhttpclient" Version="2.4.2" />
+    <PackageReference Include="modernhttpclient-updated" Version="3.4.2" />
     <PackageReference Include="Polly" Version="7.1.1" />
     <PackageReference Include="Refit" Version="4.8.14" />
     <PackageReference Include="Xam.Plugin.Connectivity" Version="3.2.0" />

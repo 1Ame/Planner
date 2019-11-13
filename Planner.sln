@@ -17,9 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{CF862437-C05
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{10B5FF47-63CD-460F-A76C-59E3E2C70CD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planner.Contracts", "Planner.Contracts\Planner.Contracts.csproj", "{AE5128F3-C9EF-4C49-9F79-AFCA4EF74EC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planner.Contracts", "Planner.Contracts\Planner.Contracts.csproj", "{AE5128F3-C9EF-4C49-9F79-AFCA4EF74EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planner.Core", "Planner.Core\Planner.Core.csproj", "{7C1F3F64-6F2C-4DC5-8053-4F96CA1F4873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planner.Core", "Planner.Core\Planner.Core.csproj", "{7C1F3F64-6F2C-4DC5-8053-4F96CA1F4873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
