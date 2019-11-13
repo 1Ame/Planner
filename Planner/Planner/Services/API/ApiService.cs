@@ -49,5 +49,20 @@ namespace Planner.Services.API
         {
             get { return _speculative.Value; }
         }
+
+        public T GetService(Priority priority)
+        {
+            switch (priority)
+            {
+                case Priority.Speculative:
+                    return Speculative;
+
+                case Priority.UserInitiated:
+                    return UserInitiated;
+
+                default:
+                    return Background;
+            }
+        }
     }
 }
